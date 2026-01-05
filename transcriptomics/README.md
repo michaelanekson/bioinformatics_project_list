@@ -20,12 +20,3 @@ The code is modular, reproducible, and designed to be easily extended.
 
 ---
 
-## 📂 Repository Structure
-
-```text
-project_root/
-├── data/            # Input data (toy or real)
-├── results/         # Differential expression & enrichment results
-├── figures/         # PCA, volcano, and GSEA plots
-├── scripts/         # Analysis scripts
-└── README.md
