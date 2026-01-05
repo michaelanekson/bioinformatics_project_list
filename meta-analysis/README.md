@@ -1,7 +1,7 @@
 # Transcriptomics Meta-analysis
 
-This module demonstrates cross-platform transcriptomics meta-analysis by
-integrating RNA-seq and microarray fold-change results.
+This module demonstrates cross-platform transcriptomics meta-analysis by integrating RNA-seq and microarray results.
+The meta-analysis is performed using Stouffer’s method, which combines gene-level p-values across studies to identify consistent transcriptomic signals.
 
 ## Key Features
 - RNA-seq + microarray integration
