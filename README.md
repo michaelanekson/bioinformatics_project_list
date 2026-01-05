@@ -26,7 +26,14 @@ The goals of this repository are to:
 │   │   ├── 06_volcano_plot.R
 │   │   ├── 07_gsea_analysis.R
 │   │   └── README.md
+│   │
 │   └── microarray/
+│       ├── 01_project_setup.R
+│       ├── 02_load_and_preprocess.R
+│       ├── 03_limma_differential_expression.R
+│       ├── 04_qc_and_visualization.R
+│       ├── 05_enrichment_analysis.R
+│       ├── 06_pathway_analysis.R
 │       └── README.md
 │
 ├── meta-analysis/
@@ -46,5 +53,3 @@ The goals of this repository are to:
 │       └── README.md
 │
 └── README.md
-
-```
